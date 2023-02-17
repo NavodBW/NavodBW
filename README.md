@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
 </div>
+<div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=NavodBW&style=flat-square&color=blue" alt=""/>
+  </div>
