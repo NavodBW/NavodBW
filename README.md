@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=NavodBW&style=flat-square&color=blue" alt=""/>
   </div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavodBW&langs_count=10&hide_progress=true&theme=tokyonight)](https://github.com/NavodBW/github-readme-stats)
+ 
+
